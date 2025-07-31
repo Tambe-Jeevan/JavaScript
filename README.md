@@ -1,1 +1,1 @@
-# Bsic Jva Script
+# Basic JavaScript
