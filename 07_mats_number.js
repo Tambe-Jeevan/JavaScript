@@ -30,3 +30,45 @@ const hundreds = 1000000
 const min = 10
 const max = 20
 console.log(Math.floor(Math.random() * (max - min + 1)) + min)  // 10 to 20
+
+
+//Practice Questions and answers
+/* Consider the following code:
+let x = 10;
+let y = 20;
+let z = 'The prize is ' + x + y;
+What will be the result of z?
+The prize is 30
+The prize is 1020 //answer
+The prize is 30.00
+
+
+In JavaScript 4 and 1.8 has the same data type.
+True  //true
+False
+
+BigInt numbers can have decimals.
+True
+False //false
+
+What is the name of the property for returing the largest number possible in javaScript?
+POSSIBLE_MAX
+MAX_POSSIBLE
+MAX_VALUE  //wright
+MAX_POSITIVE
+
+
+What is the name of the property for returing the largest INTEGER possible in javaScript?
+MAX_INTEGER
+MAX_SAFE_INTEGER  //answer
+MAX_VALUE
+MAX_POSITIVE_INTEGER
+
+
+Consider the following code:
+let a = Number.POSITIVE_INFINITY;
+If you try to write the result of a, what will be the result?
+Infinity //answer
+undefined
+NaN */
+
