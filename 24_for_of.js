@@ -41,3 +41,31 @@ for (const [key, value] of myObject) {
     console.log(key, ':-', value);
     
 }
+
+
+// Practice questions and answers
+// Consider the following code:
+const fruits = ['Apple', 'Banana', 'Orange'];
+for (x of fruits) {
+  console.log(x);
+}
+/*What will be the result in the console?
+1
+2
+3
+
+0
+1
+2
+// answer
+Apple
+Banana
+Orange
+
+
+Create a loop that runs through each item in the fruits array. */
+const fruit = ["Apple", "Banana", "Orange"];
+for (x of fruit) {
+  console.log(x);
+} 
+
