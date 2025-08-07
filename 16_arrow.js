@@ -47,3 +47,19 @@ console.log(addTwo(3, 4));
 
 // const myArray = [2, 5, 3, 7, 8];
 // myArray.forEach();
+
+
+/*Which one of the following is a correct JavaScript arrow function?
+greeting => 'Hello World!';
+greeting = () => 'Hello World!';  //answer
+// greeting = return => 'Hello World!'; */
+
+// Insert the missing parts to complete the arrow function:
+myfunc = () =>  {
+  let x = 5;
+  return x;
+}
+
+/*You are not allowed to use parameters in arrow functions.
+True
+False //answer*/
